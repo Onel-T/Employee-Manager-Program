@@ -3,4 +3,4 @@
 - Java
 ## Execute
 - Navigate into source folder
-- Run Driver.java
+- Run Driver.java using IntelliJ
